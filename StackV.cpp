@@ -1,6 +1,4 @@
 #include "StackV.h"
-using namespace std;
-
 #include <vector>
 using namespace std;
 
