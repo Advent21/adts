@@ -92,4 +92,22 @@ void List::remove(int k)
 	}
 	
 	//Implementations of missing operations
+
+int  List::getelement(int k)
+	{
+	     		if(k==1)
+	     	{
+		     return k;
+	    	}
+		     
+	      else{
+		     for(int loc =1; loc!=k; loc++)
+		     {
+			    return k;
+		     }
+		     
+	     	  }
+			
+	}
+			  
 	
